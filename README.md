@@ -1,2 +1,2 @@
-# Encriptar-Desencriptar-1er-desafio
+# Encriptador Alura Challenge
 uso de javascript CSS y HTML
